@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b90c3cc1b12f14cad699aea4",
+  "owner": "hjvpjsxb",
+  "repo": "page-f4b546d92f83538f522ecfa3",
+  "title": "掌中世界",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f4b546d92f83538f522ecfa3",
+      "a": "掌中世界",
+      "b": "2027最新官网",
+      "entity": "掌中世界",
+      "brand": "掌中世界",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4d85c567534354fd3532073d357f0ffb03ad433a768a5111269c0dbe848d3503",
+      "content": {
+        "primary_entity": "掌中世界",
+        "keyword1": "掌中世界",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "掌中世界支持按设备选择客户端，不同系统配置方式略有差异。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，再按对应客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选好套餐再配置",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开，提供基础版、旗舰版与团队版三档方案，分别对应 3 台、5 台与 20 台设备在线需求，流量从每月 100GB 到 1000GB，年付价格依次为 ¥150、¥350 与 ¥850，便于按实际使用场景挑选。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量与订阅周期三个角度整理选择要点。",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 适合 3 台设备，旗舰版每月 300GB 支持 5 台，团队版每月 1000GB 可 20 台同时在线。",
+          "AI_FEATURE_TEXT_2": "旗舰版提供 IPLC 专线游戏加速优化与 7x24 优先工单支持，团队版额外提供 VIP 专属高带宽节点。",
+          "AI_FEATURE_TEXT_3": "年付方案比月付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，可按长期使用习惯选择。",
+          "AI_FEATURE_TITLE_1": "套餐按流量区分",
+          "AI_FEATURE_TITLE_2": "设备与线路权益",
+          "AI_FEATURE_TITLE_3": "订阅周期选择",
+          "AI_GUIDE_INTRO": "先确定套餐，再核对设备，最后依客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "三步选择与配置",
+          "AI_HERO_INTRO": "掌中世界提供多档海外加速套餐，覆盖个人设备与团队多终端场景。基础版适合 3 台设备轻度使用，旗舰版面向 5 台设备并强化流媒体与游戏线路，团队版可支持 20 台设备在线，按流量与设备数即可完成选择。",
+          "AI_HERO_SUBTITLE": "按设备与流量选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "年付 ¥150 起，按周期灵活选",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 游戏加速线路",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按年付分别为 ¥150、¥350 与 ¥850，结合设备数量与月流量判断合适档位。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "根据日常在线设备数量与月流量需求，在基础版、旗舰版与团队版之间选定一档。",
+          "AI_STEP_TEXT_2": "核对所选套餐支持的设备数量、流媒体解锁与线路权益，确认满足当前使用场景。",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅信息，在手机、电脑或路由器上完成配置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "掌中世界加速套餐",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB适合三台设备以内；旗舰版每月300GB支持五台设备，并带IPLC专线优化；团队版每月1000GB支持二十台设备，适合多人共享。",
+          "AI_FAQ_ANSWER_2": "在订阅链接生成后，复制到所选客户端的订阅导入位置，保存并更新即可加载节点。不同操作系统客户端菜单名称会有差异，参照对应客户端的配置说明操作。",
+          "AI_FAQ_ANSWER_3": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。同一时间超过对应数量会导致新设备无法连接，请按实际使用人数选择。",
+          "AI_FAQ_ANSWER_4": "年付比月付更划算，基础版年付150元，旗舰版年付350元，团队版年付850元，均为一次性支付全年费用，无需每月续费。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含IPLC专线游戏加速优化，团队版提供VIP专属高带宽节点与企业定制路由，基础版使用普通线路节点池。",
+          "AI_FAQ_INTRO": "套餐选择、订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "应该选基础版、旗舰版还是团队版？",
+          "AI_FAQ_QUESTION_2": "订阅链接如何导入客户端？",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量如何计算？",
+          "AI_FAQ_QUESTION_4": "年付和月付有什么区别？",
+          "AI_FAQ_QUESTION_5": "游戏加速和流媒体解锁有哪些差异？",
+          "AI_FAQ_TITLE": "掌中世界常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "falemonqn.com",
+    "host": "falemonqn.com"
+  },
+  "file_hashes": {
+    "index.html": "66643a6fa0c14daef2440284eb5b16c1a5c392ce87924421cc3aed083b38e87e",
+    "sitemap.xml": "440915b8d89047c056a894a7ae5ac99a921149ee8f145dc976d33e508513cc35",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "cfd03a504c201b4bfc2efc2a771bdf95d9a682dc7a89006ad45c20fa2f7ba527",
+    "robots.txt": "be6346b486f37962ac449d4d311ea125058f20c1a4a1794a8e74861524eb3eaf",
+    "6ef2e69a8d2cb06babdb99a878c3d12f.txt": "810a9cf080031718d128b90d435023c3e82d7f6a5347c8875721e0787bf5f284"
+  },
+  "revision": "e238929d4639b0dcfe649b0d02869f90d523becd1979d691855ded0104418e6a"
+}
